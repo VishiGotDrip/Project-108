@@ -1,0 +1,42 @@
+body
+{
+    font-family:'Playwrite España Decorativa', serif;
+    background:skyblue;
+}
+
+.header
+{
+    background: yellow;
+    color:red;
+}
+
+.header p
+{
+    font-family:'Playwrite España Decorativa', serif;
+    font-weight:italic, bold;
+    letter-spacing:2px;
+    font-size:20px;
+}
+
+.main button
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius:20px;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color: #6c757d;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: lightgreen;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px 5px 5px rgb(151, 149, 149);
+}
